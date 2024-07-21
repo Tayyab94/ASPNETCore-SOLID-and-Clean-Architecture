@@ -8,6 +8,7 @@ C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Applicat
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfo.cs
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.sourcelink.json
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.Leave.CEB84392.Up2Date
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.dll
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\refint\HR.LeaveManagement.Application.dll

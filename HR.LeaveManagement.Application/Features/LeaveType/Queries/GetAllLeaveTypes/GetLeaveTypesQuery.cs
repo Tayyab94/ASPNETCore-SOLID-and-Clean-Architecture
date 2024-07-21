@@ -7,5 +7,8 @@ using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveTypes
 {
-   public record GetLeaveTypesQuery: IRequest<List<LeaveTypeDto>>;
+    //public class GetLeaveTypesQuery : IRequest<List<LeaveTypeDto>>
+    //{
+    //}
+    public record GetLeaveTypesQuery: IRequest<List<LeaveTypeDto>>;
 }
