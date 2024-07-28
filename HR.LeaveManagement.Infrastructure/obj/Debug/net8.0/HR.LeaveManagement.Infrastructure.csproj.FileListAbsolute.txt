@@ -1,3 +1,9 @@
+C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.sourcelink.json
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.deps.json
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.dll
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.pdb
@@ -5,12 +11,6 @@ C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastr
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
-C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
-C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.sourcelink.json
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.Leave.04E17DFA.Up2Date
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.dll
 C:\Users\tayya\source\Repos\HR,LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\refint\HR.LeaveManagement.Infrastructure.dll
